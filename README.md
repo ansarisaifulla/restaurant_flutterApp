@@ -1,8 +1,5 @@
 # restautant_flutterApp
-This restautant_flutterApp is a simple app for restaurants to help customers order food online.It is built to demonstrate use of API's and payment integration
-
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This restautant_flutterApp is a simple app for restaurants  to help customers order food online.It is built to demonstrate use of API's and payment integration
 
 ## Contributing
 1. Fork it (<https://github.com/ansarisaifulla/restaurant_flutterApp>)
