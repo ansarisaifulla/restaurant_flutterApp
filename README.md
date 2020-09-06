@@ -1,6 +1,6 @@
 # restautant_flutterApp
 This restautant_flutterApp is a simple app for restaurants  to help customers order food online.It is built to demonstrate use of API's and payment integration
-
+<img src ="assets/images/collage.png" width = 80%  style ="float:none">
 ## Contributing
 1. Fork it (<https://github.com/ansarisaifulla/restaurant_flutterApp>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
