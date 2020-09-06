@@ -1,4 +1,4 @@
-# food_deliver
+# Restaurant Flutter App
 
 A new Flutter project.
 
